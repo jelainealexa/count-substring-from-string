@@ -11,3 +11,4 @@ string = "I have 7 cats. The cat is on the mat. I love cats"
 count_substring = substring_count(string, "cats")
 
 # Print the results
+print(f"Cats appeared", count_substring, "times")
