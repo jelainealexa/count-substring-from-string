@@ -8,5 +8,6 @@ def substring_count(string, substring):
 string = "I have 7 cats. The cat is on the mat. I love cats"
 
 # Count the substrings
+count_substring = substring_count(string, "cats")
 
 # Print the results
